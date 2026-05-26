@@ -1,5 +1,7 @@
 # 🚗 Shikoz AI — Car Sales Agent
 
+## Demo
+![Shikoz UI](assets/preview.webp)
 A bilingual (Arabic/English) AI-powered car sales agent built with 
 Python, FastAPI, and Streamlit. Shikoz answers customer questions, 
 provides live inventory data, books test drives, and answers 
