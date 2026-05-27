@@ -1,5 +1,8 @@
 # 🚗 Shikoz AI — Car Sales Agent
 
+## Live Demo
+🚀 [Try Shikoz Live](https://shikoz-ai-agent-frontend-production.up.railway.app/)
+
 ## Demo
 ![Shikoz UI](assets/preview.webp)
 A bilingual (Arabic/English) AI-powered car sales agent built with 
