@@ -2,7 +2,11 @@ import uuid
 import requests
 import streamlit as st
 
-API_URL = "http://localhost:8000/chat"
+# Local Deployment
+# API_URL = "http://localhost:8000/chat"
+
+# Railway Deployment
+API_URL = "https://shikoz-ai-agent-production.up.railway.app/chat"
 # -----------------------------
 # Session State Initialization
 # -----------------------------
